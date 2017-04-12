@@ -13,6 +13,8 @@ install:
 
 script: 
  - yarn run test
+ 
+before_deploy: "echo 'ready?'"
 
 deploy:
   provider: script
