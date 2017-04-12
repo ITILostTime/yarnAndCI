@@ -18,3 +18,5 @@ edit .travis.yml
 
 https://docs.travis-ci.com/user/languages/javascript-with-nodejs/
 https://docs.travis-ci.com/user/customizing-the-build/
+
+http://putaindecode.io/fr/articles/ci/travis-ci/
